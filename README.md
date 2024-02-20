@@ -3,6 +3,8 @@ Its a movie app created using reactjs, html, css, javascript, firebase
 
 ## Getting Started
 
+Download My REACT MOVIE APP2.
+
 After getting the starter files, you need to go the file directory and run
 
 ```shell
