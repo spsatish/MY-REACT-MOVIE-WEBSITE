@@ -16,3 +16,4 @@ and after that start the dev server.
 ```shell
 npm run dev
 ```
+![Screenshot (2185) (Medium)](https://github.com/spsatish/MY-REACT-MOVIE-WEBSITE/assets/96890219/468c8d8f-bea4-428b-8929-f873481c9204)
